@@ -127,7 +127,9 @@ films' source code is not included.
     <td width="33%" align="center"><b>motion-web</b><br/><img src="assets/cases/motion-web.gif" width="100%"/><br/>
       <sub>Where the rhythm rules came from: small UI, big ground, rests, then a burst</sub><br/>
       <a href="cases/motion-web-15s/motion-web.mp4">▶ Film</a> | <a href="cases/motion-web-15s/README.md">📖 Breakdown</a></td>
-    <td width="33%"></td>
+    <td width="33%" align="center"><b>clawd</b><br/><img src="assets/cases/clawd.gif" width="100%"/><br/>
+      <sub>The mascot is the pointer: Clawd clicks, types and drags across a glass macOS desktop with its body, in 3D</sub><br/>
+      <a href="cases/clawd-desktop-19s/clawd.mp4">▶ Film</a> | <a href="cases/clawd-desktop-19s/README.md">📖 Breakdown</a></td>
   </tr>
 </table>
 
@@ -216,7 +218,7 @@ onetake 把两个画面之间的交接处当成设计的重点。每一个交接
 
 ### 案例
 
-上面的表格里有 10 条用它做的片子，每条都附成片和拆解文档（概念、节拍表、数据、被否掉的版本和原因）。**不包含片子的源代码。**
+上面的表格里有 12 条用它做的片子，每条都附成片和拆解文档（概念、节拍表、数据、被否掉的版本和原因）。**不包含片子的源代码。**
 其中 one-dot 和 skill-demo 做的时候 skill 还叫 *ohmymotion*，画面里是旧名字。
 
 ### 一条片子怎么做出来

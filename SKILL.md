@@ -252,6 +252,7 @@ behind a snap and nothing else noticed. With `--ref`, the reference's energy map
 | `references/composition.md` | the `f(t)` architecture, primitives, hand path, probe, render and shutter |
 | `references/sound.md` | palette, room, levels, what sounded cheap |
 | `references/product-demo.md` | feature demos without a recording: the replica, legibility, highlights from the DOM, narration, languages and the time warp, brand end clips, what bit |
+| `references/3d.md` | 3D films: Blender (MCP) model → GLB → three.js in the comp, the IIFE bundle for `file://`, `--gpu` (render with it: SwiftShader costs ~4×), instanced LODs, the chain as f(t) without physics, a 3D camera, text in the world that has to be read |
 | `cases/motion-web-15s/README.md` | case 1: the rhythm film — beat sheet and numbers |
 | `cases/one-dot-15s/README.md` | case 3: one dot is the whole film — the concept step, an operator's camera, recorded + synthesised sound |
 | `cases/knockon-15s/README.md` | case 4: the light chain-reaction film — causal carry, height from shadows, sound placed from the comp's `__events()` |
